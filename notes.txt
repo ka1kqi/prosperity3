@@ -1,0 +1,15 @@
+kelp_vwap = 2011.4563176895306 (day1)
+kelp_vwap = 2023.5284628872005 (day2)
+kelp_vwap = 2034.1318362911989 (day3)
+kelp_vwap_agg = 2023.03887229
+kelp 3-day mean = 2022.8407542026353
+
+resin_vwap = 10000.124421296296 (day1)
+resin_vwap = 9999.852060653187 (day2)
+resin_vwap = 9999.910776125484 (day3)
+resin_vwap_agg = 10k probably
+
+squid_vwap = 2037.5338616714698 (day1)
+squid_vwap = 1971.038384315578 (day2)
+squid_vwap = 1908.8245864572177 (day3)
+squid_vwap_agg = 1972.46561081
